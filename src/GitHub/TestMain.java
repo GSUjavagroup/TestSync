@@ -5,6 +5,8 @@ public class TestMain {
 		String x = "x";
 		String ans = TestData.displayText(x);
 		System.out.println(ans);
+		
+		System.out.println("Test 1");
 	}
 
 }
